@@ -26,11 +26,6 @@
 
 ---
 
-## 📌 Screenshot
-
-<img src="https://user-images.githubusercontent.com/your-image-url" width="80%" alt="Demo Screenshot">
-
----
 
 ## 🛠️ Installation
 
