@@ -42,7 +42,7 @@ pip install opencv-python mediapipe pyautogui numpy
 Run the following command in your terminal:
 
 ```bash
-python gesture_mouse.py
+python mouse_control.py
 ```
 
 ---
